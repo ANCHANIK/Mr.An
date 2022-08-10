@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-plastic&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-plastic&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-plastic&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-plastic&logo=Firebase&logoColor=white"/>
 </div>
 
 ### Tools
